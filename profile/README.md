@@ -24,10 +24,10 @@ Don't miss the jars. Good luck!
 
 
 ### Work Breakdown
-Trevor will primarily focus on creating assests
-Samuel will focus on gameplay and aiding in asset creation
-David will work on creating the GUI
-craig will work on sound effects and music
-Ben will work on helping with game play
+Trevor will primarily focus on creating assests. 
+Samuel will focus on gameplay and aiding in asset creation. 
+David will work on creating the GUI. 
+craig will work on sound effects and music. 
+Ben will work on helping with game play. 
 
 ### Schedule
