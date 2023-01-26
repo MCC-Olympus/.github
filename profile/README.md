@@ -13,7 +13,7 @@ don't miss the jars. good luck!
 ### Team Charter
 
 
-### Team Board
+### [Team Board](https://github.com/orgs/MCC-Olympus/projects/1 "Game-Jam Project")
 
 
 ### Work Breakdown
