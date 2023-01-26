@@ -3,12 +3,18 @@ MCC INFO1325-WI Game Jam entry
 
 
 ### Team Pitch
-<!-- Thpe here -->
+The game we are creating will bre called Jelly Smash
+
+The goal of the game is to smash jars of jam
+the game will have varying levels of difficuly by increasing speed
+requiring the player to be very accurate, don't hit anything that is not jam
+don't miss the jars. good luck!
 
 ### Team Charter
 
 
-### [Team Board](https://github.com/orgs/MCC-Olympus/projects/1/views/1 "Game-Jam Project")
+### Team Board
+
 
 ### Work Breakdown
 
