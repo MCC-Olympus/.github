@@ -11,6 +11,15 @@ Don't miss the jars. Good luck!
 ### Team Charter
 
 
+| Name             | Email                           | Role          |
+|------------------|---------------------------------|---------------|
+| Ben Grelk        | bjgrelk@mail.mccneb.edu         | Git Master    |
+| Craig Kerekes    | ckkrekes@mail.mccneb.edu        | SCRUM Master  |
+| Samuel Blackburn | scblackburn@mail.mccneb.edu     | Member        |
+| Trevor Maass     | tdmaas@mail.mccneb.edu          | Member        | 
+| David Valentine  | davalentine@mail.mccneb.edu     | Product Owner |
+
+
 ### Team Board
 
 
