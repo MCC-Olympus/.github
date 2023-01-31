@@ -22,7 +22,7 @@ Don't miss the jars. Good luck!
 
 ### [Team Board](https://github.com/orgs/MCC-Olympus/projects/1/views/1 "Game-Jam Project")
 
-## [Sprint Documentation](https://docs.google.com/document/d/1SqVtzIEZ-mN01PpTQLqmuviYkzWliZHLwg00_Lh3g_I/edit "Sprint Documantation INFO 1321")
+### [Sprint Documentation](https://docs.google.com/document/d/1SqVtzIEZ-mN01PpTQLqmuviYkzWliZHLwg00_Lh3g_I/edit "Sprint Documantation INFO 1321")
 
 ### Work Breakdown
 Trevor will primarily focus on creating assests. 
