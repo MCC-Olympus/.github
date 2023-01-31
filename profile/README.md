@@ -33,7 +33,7 @@ Ben will work on helping with game play.
 
 ### Schedule
 Milestones:
-* get sprites made
-* get base functions finished
-* get main game ready for soft launch
-* resolve most bugs and decorate
+* Get sprites made
+* Get base functions finished
+* Get main game ready for soft launch
+* Resolve most bugs and decorate
