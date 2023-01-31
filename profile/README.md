@@ -32,3 +32,8 @@ Craig will work on sound effects and music.
 Ben will work on helping with game play. 
 
 ### Schedule
+milestones:
+  *get sprites made
+  *get base functions finished
+  *get main game ready for soft launch
+  *resolve most bugs and decorate
