@@ -38,4 +38,4 @@ Milestones:
 * Get main game ready for soft launch
 * Resolve most bugs and decorate
 
-### [TEST LINK](https://mccnetmccneb-my.sharepoint.com/:x:/r/personal/ckkerekes_mail_mccneb_edu/Documents/IT-Risk-Assessment-Matrix-Template%20CKK.xlsx?d=w2482db68b26c499893768002a0033bd0&csf=1&web=1&e=vAhVys "TEST")
+### [Risks and Mediation](https://github.com/MCC-Olympus/.github/blob/main/IT-Risk-Assessment-Matrix-Template%20CKK%20-%20Copy.pdf "Risk")
