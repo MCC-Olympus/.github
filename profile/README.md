@@ -41,6 +41,8 @@ Milestones:
 ### [Risks and Mediation](https://github.com/MCC-Olympus/.github/blob/main/IT-Risk-Assessment-Matrix-Template%20CKK%20-%20Copy.pdf "Risk")
 
 ### [Requirements](https://docs.google.com/document/d/1v7QvZro_lRrO82Z4z-6r5MBBAxByQJID2SvQrkEEVt8/edit "User Stories")
+* User Stories
+* Use Case Diagram
 
 ### User stories
 * Gamers, the standard casual player we expect on our game.
