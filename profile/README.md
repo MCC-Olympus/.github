@@ -40,10 +40,10 @@ Milestones:
 
 ### [Risks and Mediation](https://github.com/MCC-Olympus/.github/blob/main/IT-Risk-Assessment-Matrix-Template%20CKK%20-%20Copy.pdf "Risk")
 
-### Requirements
+### Requirements:
 * [User Stories](https://docs.google.com/document/d/1v7QvZro_lRrO82Z4z-6r5MBBAxByQJID2SvQrkEEVt8/edit "User Stories")
 * [Use Case Diagram](https://lucid.app/lucidchart/57968865-bd60-4936-9b4b-1db3e53b1f76/edit?invitationId=inv_3854d02d-1347-436c-a780-c65f9af37675&page=0_0# "Use Case Diagram")
 
-### Users we expect to play.
+### Users we expect to play:
 * Gamers, the standard casual player we expect on our game.
 * Experts/Tryhards/Speedrunners, the experienced players that want a personal challenge or have a goal they wish to acheive in our game.
