@@ -47,3 +47,7 @@ Milestones:
 ### Users we expect to play:
 * Gamers, the standard casual player we expect on our game.
 * Experts/Tryhards/Speedrunners, the experienced players that want a personal challenge or have a goal they wish to acheive in our game.
+
+### [Test Plan and Report](https://docs.google.com/document/d/1m47e4wNJzgO9PVPTo0FTe0f0ZocYrPczscEIq95mFK8/edit "Testing")
+
+### [Play The Game!]("The Game")
