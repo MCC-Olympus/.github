@@ -50,4 +50,4 @@ Milestones:
 
 ### [Test Plan and Report](https://docs.google.com/document/d/1m47e4wNJzgO9PVPTo0FTe0f0ZocYrPczscEIq95mFK8/edit "Testing")
 
-### [Play The Game!]("The Game")
+### [Play The Game!](https://mcc-olympus.github.io/game-jam/)
